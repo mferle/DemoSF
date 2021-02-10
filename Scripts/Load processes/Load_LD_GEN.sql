@@ -341,3 +341,7 @@ FROM LD_26_PLC_CMP_42_DVOJCKI PLC_CMP
 ;
 
 --  select count(*) from ld_26_plc_cmp_42_dvojcki; --83 million
+
+
+-- add some dummy code
+SELECT 1 FROM DUAL;
