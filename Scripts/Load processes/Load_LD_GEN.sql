@@ -344,4 +344,5 @@ FROM LD_26_PLC_CMP_42_DVOJCKI PLC_CMP
 
 
 -- add some dummy code
-SELECT 1 FROM DUAL;
+-- changed from 1 to 2
+SELECT 2 FROM DUAL;
