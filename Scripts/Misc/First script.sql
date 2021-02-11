@@ -1,3 +1,10 @@
+-- exercise from Advent of code
+-- ---------------------------------
+-- Description: ...
+-- Input parameters:
+-- 
+-- ---------------------------------
+
 CREATE OR REPLACE TABLE buses_sample AS
 SELECT 7 AS bus, 0 AS off FROM DUAL UNION ALL
 SELECT 13 AS bus, 1 AS off FROM DUAL UNION ALL
