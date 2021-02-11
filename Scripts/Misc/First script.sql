@@ -2,7 +2,7 @@
 -- ---------------------------------
 -- Description: ...
 -- Input parameters:
--- 
+-- Output parameters:
 -- ---------------------------------
 
 CREATE OR REPLACE TABLE buses_sample AS
